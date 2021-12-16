@@ -8,9 +8,12 @@ They are available to free accounts!
 
 ## Getting started
 
-If do not have a GitHub account, start by creating one: [github.com/signup](https://github.com/signup), and then come back here.
+If do not have a GitHub account, start by creating one: [github.com/signup](https://github.com/signup).
 
-Click the `Fork` button to create a copy of this Starter Kit on your account.
+Click the `Fork` button to create a copy of this Starter Kit on your account.  
+Go to the `Settings` tab.
+- in `Options`: **rename** `Nexus-Github-starter` to **`nexus`**  
+- in `Pages`: select `main` as **branch** and `root` as **folder**, then click `Save`.
 
 Upload your media files in `media/` if any.  
 
