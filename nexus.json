@@ -1,0 +1,111 @@
+{
+  "nexus": "https://nexus-dock.github.io/",
+  "author": {
+    "handle": "Bibliographe de l'Anti-CV",
+    "about": "",
+    "url": "http://mondesheureux.net"
+  },
+  "threads": [
+    {
+      "id": "General-Strike Piece",
+      "title": "General Strike Piece",
+      "description": "Lee Lozano, \"General Strike Piece\" ",
+      "content": {
+        "timestamp": "1969-02-08T09:41",
+        "main": "\"GRADUALLY BUT DETERMINEDLY AVOID BEING PRESENT AT OFFICIAL OR PUBLIC ‘UPTOWN’ FUNCTIONS OR GATHERINGS RELATED TO THE ‘ART WORLD’ IN ORDER TO PURSUE INVESTIGATION OF TOTAL PERSONAL & PUBLIC REVOLUTION.\"",
+        "aside": "\n",
+        "media": {
+          "url": "https://arthur.io/art/lee-lozano/general-strike-piece",
+          "type": "image",
+          "caption": ""
+        }
+      },
+      "linked": [
+        {
+          "url": "https://duuuradio.fr/recherche?author=elsa-vettier",
+          "id": "/"
+        }
+      ]
+    },
+    {
+      "id": "Dropout-piece",
+      "title": "Dropout piece",
+      "description": "Lee Lozano, \"Dropout Piece\"",
+      "content": {
+        "timestamp": "1970-04-05T10:01",
+        "main": "\"GRADUALLY BUT DETERMINEDLY AVOID BEING PRESENT AT OFFICIAL OR PUBLIC ‘UPTOWN’ FUNCTIONS OR GATHERINGS RELATED TO THE ‘ART WORLD’ IN ORDER TO PURSUE INVESTIGATION OF TOTAL PERSONAL & PUBLIC REVOLUTION.\"",
+        "aside": " ",
+        "media": {
+          "url": "https://asianartsinitiative.org/sites/default/files/styles/full/public/2020-06/Lee-Lozano-Notebook-01__large.png?h=3b27c547&itok=ez97j7M6",
+          "type": "image",
+          "caption": ""
+        }
+      },
+      "linked": []
+    },
+    {
+      "id": "The-End of Capitalism",
+      "title": "The End of Capitalism",
+      "description": "J.K Gibson-Graham, \"The End of Capitalism (As We Knew It)",
+      "content": {
+        "timestamp": "2022-02-01T10:11",
+        "main": "...",
+        "aside": "",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        }
+      },
+      "linked": []
+    },
+    {
+      "id": "L'Homme-sans talent",
+      "title": "L'Homme sans talent",
+      "description": "Yoshiharu Tsuge, \"L'Homme sans talent\"",
+      "content": {
+        "timestamp": "2022-02-01T10:12",
+        "main": "...",
+        "aside": "",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        }
+      },
+      "linked": []
+    },
+    {
+      "id": "La-Tannerie",
+      "title": "La Tannerie",
+      "description": "Célia Levi, \"La Tannerie\"",
+      "content": {
+        "timestamp": "2022-02-01T10:12",
+        "main": "...",
+        "aside": "",
+        "media": {
+          "url": "",
+          "type": "",
+          "caption": ""
+        }
+      },
+      "linked": []
+    },
+    {
+      "id": "parADOxes",
+      "title": "parADOxes",
+      "description": " Ateliers Chemin de Vie",
+      "content": {
+        "timestamp": "2022-02-01T10:14",
+        "main": "L’atelier « Chemin de vie » permet d’envisager autrement les questions d'orientation, d’engagement dans les études ou parfois simplement de présence qui se posent pour certains élèves ou étudiants en difficulté dans leur parcours scolaire. \n\nCe parcours aboutit à la rédaction d'une part d'un CV classique, et d'autre part d'un document personnel, une trace dont la forme est élaborée par chaque adolescent-e au fil des trois rendez-vous. Ce travail exprime une position « à un moment » et permet à son auteur de réengager autrement sa présence dans son parcours scolaire.",
+        "aside": "",
+        "media": {
+          "url": "https://www.paradoxes-paris.org/ateliers-d-écriture-et-ateliers-cv",
+          "type": "page",
+          "caption": ""
+        }
+      },
+      "linked": []
+    }
+  ]
+}
