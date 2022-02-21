@@ -7,7 +7,7 @@
   },
   "threads": [
     {
-      "id": "Transmissions-Vegétales",
+      "id": "Transmissions-Vegetales",
       "title": "Transmissions Végétales",
       "description": "Transmissions Végétales est une recherche artistique sur les relations plantes-humains, menée par Nicolas Guillemin et Agnès Prévost. Les deux artistes s’intéressent à la nature et à la profondeur des liens qui unissent les humains aux plantes.",
       "content": {
@@ -23,7 +23,7 @@
       "linked": []
     },
     {
-      "id": "Cabaret-Courant Faible",
+      "id": "Cabaret-Courant-Faible",
       "title": "Cabaret Courant Faible",
       "description": "Le Cabaret courant faible propose à des artistes liés aux arts visuels, peintres, sculpteurs, photographes, etc., ainsi qu’à des théoriciens, de créer des numéros, ces numéros pouvant aussi faire appel à d’autres disciplines rappelant le cabaret : théâtre, danse, chant… Le Cabaret est coordonné par Elise Vandewalle et Nicolas Guillemin.",
       "content": {
@@ -39,7 +39,7 @@
       "linked": []
     },
     {
-      "id": "Plotter-- machine a dessiner",
+      "id": "Plotter-machine-a-dessiner",
       "title": "Plotter - machine à dessiner",
       "description": "J'ai fabriqué une machine à dessiner, une traceuse numérique. En plus, de reprendre la main sur une production mécanisée d’oeuvres d’art, cette expérience fait aussi entrevoir un autre rapport à la machine, moins basé sur la servilité que sur l’apprentissage, le tâtonnement, la familiarité.",
       "content": {
